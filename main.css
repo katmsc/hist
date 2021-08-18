@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    position: relative;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.tsars__item {
+    width: 339px;
+    margin-bottom: 50px;
+    float: left;
+    text-align: center;
+}
+
+ .tsars-title{
+    margin-bottom: 5px;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+}
